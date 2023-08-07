@@ -1,11 +1,22 @@
 ### Welcome! 
 
-Michael Cioffi is a product leader and soccer enthusiast.
+Michael Cioffi ([webmcioffi.com](https://www.webmcioffi.com)) is a product leader and soccer enthusiast.
 
 Michael spends his current day(s) making sports stats and data science more accessible and engaging through daily trivia apps.
 
-Here's what's on my plate today:
+___
 
-- Superstardle 🏆 — [Play the Game →](https://www.superstardle.com)
-- Station 30 📻 (_proof of concept_) — [Give a try →](https://www.stationthirty.com)
-- Fastbreak Cereal 🥣 — [Take me there →](https://www.fastbreakcereal.com)
+🏆 **Superstardle** (.com) [Play Now →](https://www.superstardle.com)
+
+Guess the superstar in basketball, baseball, or football using geography and stats
+___
+
+⚽ **Bicycle Kix** (.com) [Play Now →](https://www.biyclekix.com)
+
+Guess the soccer player using team hints
+
+___
+
+📻 **Station Thirty** (.com) [Give a Try →](https://www.stationthirty.com)
+
+Guess the sports final
