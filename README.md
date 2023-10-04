@@ -4,7 +4,7 @@ Michael Cioffi ([webmcioffi.com](https://www.webmcioffi.com)) is a product leade
 
 Michael spends his current day(s) making sports stats and data science more accessible and engaging through daily trivia apps.
 
-![Superstardle](https://cdn.superstardle.com/superstardle-share-sm.png)
+![Superstardle](https://cdn.superstardle.com/superstardle-share-md.png)
 
 | Check Out        | The What           | Link  |
 | :--- |:---| :---|
