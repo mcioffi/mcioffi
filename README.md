@@ -1,10 +1,10 @@
 ### Welcome! 
 
-Michael Cioffi ([webmcioffi.com](https://www.webmcioffi.com)) is a product leader and soccer enthusiast.
+Michael Cioffi  ([webmcioffi.com](https://www.webmcioffi.com)) is a product leader, and a sports type of human being — the wins, losses, ties, and all in between.
 
-Michael spends his current day(s) making sports stats and data science more accessible and engaging through daily trivia apps.
+Michael spends his current day(s) crafting sports trivia and data visuals for fans and journalists alike.
 
-![Superstardle](https://cdn.superstardle.com/marketing/superstardle-share-sm.png)
+![Superstardle](https://cdn.superstardle.com/marketing/superstardle-share.png)
 
 | Check Out        | The What           | Link  |
 | :--- |:---| :---|
