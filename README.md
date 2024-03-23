@@ -1,10 +1,10 @@
-### Welcome! 
+## Hey! 
 
-Michael Cioffi  ([webmcioffi.com](https://www.webmcioffi.com)) is a product leader, and a sports type of human being — the wins, losses, ties, and all in between.
+Mike Cioffi [here](https://www.webmcioffi.com), I dabble in product and creative engineering, mainly data vizualization and trivia. 
 
-Michael spends his current day(s) crafting sports trivia and data visuals for fans and journalists alike.
+You can check out my [studio work](https://studio.webmcioffi.com), and reach out to collaborate together. 
 
-![Superstardle](https://cdn.superstardle.com/marketing/superstardle-share.png)
+And for work under my [Superstardle](https://www.superstardle.com) brand, see below. Thanks & cheers!
 
 | Check Out        | The What           | Link  |
 | :--- |:---| :---|
