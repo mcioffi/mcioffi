@@ -8,10 +8,8 @@ And for work under my [Superstardle](https://www.superstardle.com) brand, see be
 
 | Check Out        | The What           | Link  |
 | :--- |:---| :---|
-| Who Dat    | Guess the sports player by their teams  | [who.superstardle.com](https://who.superstardle.com) |
-| Stat Me      | Guess sports players in sets by their stat graphs      |   [stat.superstardle.com](https://stat.superstardle.com) |
-| Pack'Em     | Dive into playoff performance trivia, with pop culture mixed in      |   [playoffs.superstardle.com](https://playoffs.superstardle.com) |
-| The Index | Explore the frequency of sports underdogs and favorites winning     |    [index.superstardle.com](https://index.superstardle.com) |
-| Salaries | Explore sports salaries and value     |    [salaries.superstardle.com](https://salaries.superstardle.com) |
-| The Time Machine | Go back in time and view teams, logos, rosters, and geography      |    [machine.superstardle.com](https://machine.superstardle.com) |
+| Tally    | Guess the sports player career | [tally.superstardle.com](https://tally.superstardle.com) |
+| Styles      | Guess sports player graphs     |   [styles.superstardle.com](https://styles.superstardle.com) |
+| Zones   | Guess sports regular season statlines      |   [zones.superstardle.com](https://zones.superstardle.com) |
+| Explorations | Go back in time with sports teams or dive into salaries     |    [explore.superstardle.com](https://explore.superstardle.com) |
 
