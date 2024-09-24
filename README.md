@@ -1,13 +1,14 @@
-## Hey! 
+## Hey! 👋🏼
 
-Mike Cioffi [here](https://www.webmcioffi.com), I dabble in product and creative engineering, mainly data vizualization and trivia. 
+Mike Cioffi [here](https://www.webmcioffi.com), thanks for dropping in for a visit. I dabble in creative engineering, data vizualizations, and crafting trivia (or puzzles).
 
-You can check out my [studio](https://www.webmcioffi.com/studio), or my [Superstardle](https://www.superstardle.com) brand below. Thanks & cheers!
+![cover studio alt](https://github.com/user-attachments/assets/825425e7-7d2f-4c47-bdab-ff4a85dda404)
 
-| Check Out        | The What           | Link  |
+Recent projects below —
+
+| Check Out        | Tell Me More           | Link  |
 | :--- |:---| :---|
-| Tally    | Guess the sports player career | [tally.superstardle.com](https://tally.superstardle.com) |
-| Styles      | Guess sports player graphs     |   [styles.superstardle.com](https://styles.superstardle.com) |
-| Zones   | Guess sports regular season statlines      |   [zones.superstardle.com](https://zones.superstardle.com) |
-| Explorations | Go back in time with sports teams or dive into salaries     |    [www.superstardle.com/explore](https://www.superstardle.com/explore) |
+| Superstardle Trivia    | Dive into sports stats, and set up your very own trivia | [play.superstardle.com](https://play.superstardle.com) |
+| Superstardle Explorations | Explore sports data and learn something you did not know     |    [www.superstardle.com/explore](https://www.superstardle.com/explore) |
+| The Blank Dish   | Discover new recipes & food palettes and, guess ingredients      |   [www.theblankdish.com](https://www.theblankdish.com) |
 
